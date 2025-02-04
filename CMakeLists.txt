@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(Snake-linked-lib)
+project(Snake-linked-list)
 
 # Set C standard to C99
 set(CMAKE_C_STANDARD 99)
@@ -20,7 +20,7 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(raylib)
 
 # Add the executable
-add_executable(${PROJECT_NAME} snake-array.c)
+add_executable(${PROJECT_NAME} snake-linked-list.c)
 
 # Link raylib and platform-specific libraries
 if (WIN32)
@@ -35,6 +35,6 @@ endif()
 add_custom_command(
   TARGET ${PROJECT_NAME} POST_BUILD
   COMMAND ${CMAKE_COMMAND} -E copy
-  ${CMAKE_BINARY_DIR}/compile_commands.json ${CMAKE_SOURCE_DIR}/.vscode/compile_commands.json
+  ${CMAKE_BINARY_DIR}/compile_commands.json ${CMAKE_SOURCE_DIR}/compile_commands.json
   COMMENT "Copying compile_commands.json to project root"
 )

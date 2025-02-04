@@ -1,14 +1,14 @@
 # Target labels
  raylib-populate
 # Source files and their labels
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
-/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

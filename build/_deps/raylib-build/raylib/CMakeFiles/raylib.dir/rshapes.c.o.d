@@ -1,11 +1,11 @@
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/rshapes.c \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/rshapes.c \
  /usr/include/stdc-predef.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/raylib.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdbool.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/config.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/rlgl.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/raylib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/config.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/rlgl.h \
  /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -27,4 +27,4 @@ _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/float.h
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/float.h

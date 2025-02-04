@@ -1,11 +1,11 @@
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.o: \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/utils.c \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/utils.c \
  /usr/include/stdc-predef.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/raylib.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdbool.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/config.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/utils.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/raylib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/config.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/utils.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -15,7 +15,7 @@ _deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.o: \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

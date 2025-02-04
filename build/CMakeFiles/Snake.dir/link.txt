@@ -1,1 +1,0 @@
-/usr/bin/cc "CMakeFiles/Snake.dir/snake-array.c.o" -o Snake  _deps/raylib-build/raylib/libraylib.a -lm -lpthread -ldl -lGL -lGLU -lX11 /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so _deps/raylib-build/raylib/external/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl

@@ -1,4 +1,4 @@
-# Install script for directory: /home/sibjor/Documents/snake/build/_deps/raylib-src
+# Install script for directory: /home/sibjor/Projects/snake/build/_deps/raylib-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,14 +37,14 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set path to fallback-tool for dependency-resolution.
+# Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/sibjor/Documents/snake/build/_deps/raylib-build/raylib/cmake_install.cmake")
+  include("/home/sibjor/Projects/snake/build/_deps/raylib-build/raylib/cmake_install.cmake")
 
 endif()
 

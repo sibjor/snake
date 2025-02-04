@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/sibjor/Documents/snake/snake-array.c" "CMakeFiles/Snake.dir/snake-array.c.o" "gcc" "CMakeFiles/Snake.dir/snake-array.c.o.d"
+  "/home/sibjor/Projects/snake/snake-linked-list.c" "CMakeFiles/Snake-linked-list.dir/snake-linked-list.c.o" "gcc" "CMakeFiles/Snake-linked-list.dir/snake-linked-list.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

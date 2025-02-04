@@ -1,8 +1,9 @@
-CMakeFiles/Snake.dir/snake-array.c.o: \
- /home/sibjor/Documents/snake/snake-array.c /usr/include/stdc-predef.h \
- /home/sibjor/Documents/snake/build/_deps/raylib-src/src/raylib.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdbool.h /usr/include/stdlib.h \
+CMakeFiles/Snake-linked-list.dir/snake-linked-list.c.o: \
+ /home/sibjor/Projects/snake/snake-linked-list.c \
+ /usr/include/stdc-predef.h \
+ /home/sibjor/Projects/snake/build/_deps/raylib-src/src/raylib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -11,7 +12,7 @@ CMakeFiles/Snake.dir/snake-array.c.o: \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

@@ -3,13 +3,13 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/sibjor/Documents/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitclone.cmake
-source_dir=/home/sibjor/Documents/snake/build/_deps/raylib-src
-work_dir=/home/sibjor/Documents/snake/build/_deps
+command=/usr/bin/cmake;-P;/home/sibjor/Projects/snake/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitclone.cmake
+source_dir=/home/sibjor/Projects/snake/build/_deps/raylib-src
+work_dir=/home/sibjor/Projects/snake/build/_deps
 repository=https://github.com/raysan5/raylib.git
 remote=origin
 init_submodules=TRUE
 recurse_submodules=--recursive
 submodules=
 CMP0097=NEW
-      
+
